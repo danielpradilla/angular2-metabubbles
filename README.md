@@ -4,8 +4,6 @@ This is a typescript implementation of [Metabubbles: Making Generative Art with 
 
 ![gif](./metabubbles.gif)
 
-This is a typescript implementation of [Metabubbles: Making Generative Art with Angular 2](http://teropa.info/blog/2016/02/28/metabubbles-generative-art-with-angular-2.html) by [Tero Parviainen](https://twitter.com/teropa)
-
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.10.
 
 ## Development server
