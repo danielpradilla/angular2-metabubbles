@@ -1,9 +1,15 @@
 # Angular2Metabubbles
 
+![gif](./metabubbles.gif)
+
+This is a typescript implementation of [Metabubbles: Making Generative Art with Angular 2](http://teropa.info/blog/2016/02/28/metabubbles-generative-art-with-angular-2.html)
+
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.10.
 
 ## Development server
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
+ng serve --port 4201 --live-reload-port 49153
 
 ## Code scaffolding
 

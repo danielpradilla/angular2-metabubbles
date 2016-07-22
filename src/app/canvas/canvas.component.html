@@ -1,0 +1,9 @@
+<p>
+  canvas works!
+</p>
+
+<svg [attr.viewBox]="getViewBox()"
+   preserveAspectRatio="xMidYMid meet"
+   (click)="toggleRunning()">
+   	<svg:g app-circle *ngFor="let circle of circles" [circle]="circle" /> 
+</svg>

@@ -36,6 +36,9 @@ const barrels: string[] = [
   // App specific barrels.
   'app',
   'app/shared',
+  'app/canvas-component',
+  'app/canvas',
+  'app/circle',
   /** @cli-barrel */
 ];
 
